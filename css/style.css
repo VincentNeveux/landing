@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Crete+Round:400,700|Kamit:300,400,700");
 
 /* Importing component files */
-@import url("components/avatar.css");
-@import url("components/banner.css");
-@import url("components/button.css");
-@import url("components/card.css");
-@import url("components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/card.css");
+@import url("Components/container.css");
 /* General style rules for fonts and colors */
 body {
   font-family: 'Kanit';
